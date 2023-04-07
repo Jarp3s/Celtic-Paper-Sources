@@ -1,0 +1,145 @@
+﻿{
+  "language": "Common Celtic",
+  "soundLawRepresentations": [
+    {
+      "number": "PRC-PC 1a",
+      "law": "aw > au /C_C",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 1b",
+      "law": "ow > ou /C_C",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 2a",
+      "law": "b > β /V,Vw_V,R,#",
+      "context": "Lenition"
+    },
+    {
+      "number": "PRC-PC 2b",
+      "law": "g > ɣ /V,Vw_V,R,#",
+      "context": "Lenition"
+    },
+    {
+      "number": "PRC-PC 2c",
+      "law": "d > ð /V,Vw_V,R,#",
+      "context": "Lenition"
+    },
+    {
+      "number": "PRC-PC 2d",
+      "law": "m > μ /V,Vw_V,R",
+      "context": "Lenition"
+    },
+    {
+      "number": "PRC-PC 3",
+      "law": "sf > h /V,Vw_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 4",
+      "law": "f > Ø",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 5",
+      "law": "u > w /#_V",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 6",
+      "law": "β > μ /_n",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 7a",
+      "law": "s > r /V_rV",
+      "context": ""
+    },
+    {
+      "number": "PRC-PC 7b",
+      "law": "s > l /V_lV",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 1",
+      "law": "ð > Ø /_#",
+      "context": "Loss of word-final ð"
+    },
+    {
+      "number": "PC-IC 2",
+      "law": "e > a /_Ra",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 3",
+      "law": "a > æ /_NT,Ns,nn,N#",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 4",
+      "law": "e > æ /_ge,gi",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 5",
+      "law": "st,tst > ts /V,Vw_",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 6",
+      "law": "s > Ø /L_T",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 7a",
+      "law": "s > θ / #_r",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 7b",
+      "law": "ts > θ /_r",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 8",
+      "law": "s > ð /_r",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 9",
+      "law": "s,z > ð /_B",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 10",
+      "law": "e > o /_u",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 11",
+      "law": "e,u > o /_w",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 12",
+      "law": "ou,ow > ō /_C,#",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 13",
+      "law": "m > n /_#",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 14",
+      "law": "oi,ai,ē > ī /_#",
+      "context": ""
+    },
+    {
+      "number": "PC-IC 15",
+      "law": "s > h /V,Vw_V,R,#",
+      "context": ""
+    }
+  ]
+}

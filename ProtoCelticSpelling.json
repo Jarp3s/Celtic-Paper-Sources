@@ -1,0 +1,60 @@
+﻿{
+  "language": "Proto Celtic",
+  "soundLawRepresentations": [
+    {
+      "number": "Sp PC 1a",
+      "law": "aw > au /C_C",
+      "context": ""
+    },
+    {
+      "number": "Sp PC 1b",
+      "law": "ow > ou /C_C",
+      "context": ""
+    },
+    {
+      "number": "Sp PC 1c",
+      "law": "y > i /V_C",
+      "context": ""
+    },
+    {
+      "number": "Sp PC 2",
+      "law": "y > j",
+      "context": ""
+    },
+    {
+      "number": "Sp PC 3a",
+      "law": "gw > gʷ",
+      "context": ""
+    },
+    {
+      "number": "Sp PC 3b",
+      "law": "kw > kʷ",
+      "context": ""
+    },
+    {
+      "number": "Sp PC 4a",
+      "law": "b > β /V,Vw_V,R,#",
+      "context": "Lenition"
+    },
+    {
+      "number": "Sp PC 4b",
+      "law": "g > ɣ /V,Vw_V,R,#",
+      "context": "Lenition"
+    },
+    {
+      "number": "Sp PC 4c",
+      "law": "d > ð /V,Vw_V,R,#",
+      "context": "Lenition"
+    },
+    {
+      "number": "Sp PC 4d",
+      "law": "m > μ /V,Vw_V,R",
+      "context": "Lenition"
+    },
+    {
+      "number": "Sp PC 5",
+      "law": "n > ŋ /_K",
+      "context": ""
+    }
+  ]
+}

@@ -1,0 +1,290 @@
+﻿{
+  "language": "Old Irish",
+  "soundLawRepresentations": [
+    {
+      "number": "Sp OI 1",
+      "law": "c > k",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 2",
+      "law": "n > ŋ /_k,g",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 3a",
+      "law": "á > ā",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 3b",
+      "law": "ó > ō",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 3c",
+      "law": "ú > ū",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 3d",
+      "law": "í > ī",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 3e",
+      "law": "é > ē",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 4",
+      "law": "i > ⁊ /#$V_",
+      "context": "(includes temporary pre-palatalization ⁊)"
+    },
+    {
+      "number": "Sp OI 5a",
+      "law": "aī > ai⁊",
+      "context": "(includes temporary pre-palatalization ⁊)"
+    },
+    {
+      "number": "Sp OI 5b",
+      "law": "āe > ai",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 5c",
+      "law": "oī > oi⁊",
+      "context": "(includes temporary pre-palatalization ⁊)"
+    },
+    {
+      "number": "Sp OI 5d",
+      "law": "ōe > oi",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 5e",
+      "law": "uī > ui",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 5f",
+      "law": "īa > ia",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 5g",
+      "law": "ūa > ua",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 6",
+      "law": "o > u /a,e_",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7a",
+      "law": "b > β /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7b",
+      "law": "g > ɣ /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7c",
+      "law": "d > ð /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7d",
+      "law": "m > μ /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7e",
+      "law": "p > b /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7f",
+      "law": "t > d /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 7g",
+      "law": "k > g /V(⁊)_V,R,#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 8",
+      "law": "x > xs",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 9a",
+      "law": "ph > ɸ",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 9b",
+      "law": "th > θ",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 9c",
+      "law": "kh > x",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 10a",
+      "law": "pp > p",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 10b",
+      "law": "tt > t",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 10c",
+      "law": "kk > k",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 11a",
+      "law": "a,o,u > ə /V(⁊)C$_C$",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 11b",
+      "law": "ai > ə⁊ /V(⁊)C$_C$",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 11c",
+      "law": "e > ʲə /V(⁊)X(X)(X)_C$",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 11d",
+      "law": "i > ʲə⁊ /V(⁊)X(X)(X)_C$",
+      "context": "(includes temporary pre-palatalization ⁊)"
+    },
+    {
+      "number": "Sp OI 11e",
+      "law": "e > ə /V(⁊)C$_C$",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 11f",
+      "law": "i > ə⁊ /V(⁊)C$_C$",
+      "context": "(includes temporary pre-palatalization ⁊)"
+    },
+    {
+      "number": "Sp OI 12a",
+      "law": "e > ʲe /X_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12b",
+      "law": "ae > e /_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12c",
+      "law": "i > ʲi /X_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12d",
+      "law": "ui > i /_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12e",
+      "law": "iu > ʲu /X_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12f",
+      "law": "eo > ʲo /X_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12g",
+      "law": "ea > ʲa /X_#",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 12h",
+      "law": "Ø > ʲ /#X_($)E",
+      "context": ""
+    },
+    {
+      "number": "Sp OI 13a",
+      "law": "Ø > ʲ /⁊X_",
+      "context": "Palatalization solving chaos"
+    },
+    {
+      "number": "Sp OI 13b",
+      "law": "Ø > ʲ /JX_",
+      "context": "Palatalization solving chaos"
+    },
+    {
+      "number": "Sp OI 13c",
+      "law": "⁊ > Ø",
+      "context": "Palatalization solving chaos"
+    },
+    {
+      "number": "Sp OI 14",
+      "law": "- > Ø",
+      "context": "Dash removal"
+    },
+    {
+      "number": "Sp OI 15a",
+      "law": "dd > d /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15b",
+      "law": "gg > g /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15c",
+      "law": "bb > b /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15d",
+      "law": "tt > t /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15e",
+      "law": "kk > k /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15f",
+      "law": "pp > p /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15g",
+      "law": "ss > s /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15h",
+      "law": "nn > n /_#",
+      "context": "elimination of final geminates"
+    },
+    {
+      "number": "Sp OI 15i",
+      "law": "ll > l /_#",
+      "context": "elimination of final geminates"
+    }
+  ]
+}
